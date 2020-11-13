@@ -1,0 +1,13 @@
+C:\Users\DELL09\source\repos\StatePattern\StatePattern\obj\Debug\netcoreapp3.1\StatePattern.csprojAssemblyReference.cache
+C:\Users\DELL09\source\repos\StatePattern\StatePattern\obj\Debug\netcoreapp3.1\StatePattern.AssemblyInfoInputs.cache
+C:\Users\DELL09\source\repos\StatePattern\StatePattern\obj\Debug\netcoreapp3.1\StatePattern.AssemblyInfo.cs
+C:\Users\DELL09\source\repos\StatePattern\StatePattern\obj\Debug\netcoreapp3.1\StatePattern.csproj.CoreCompileInputs.cache
+C:\Users\DELL09\source\repos\StatePattern\StatePattern\bin\Debug\netcoreapp3.1\StatePattern.exe
+C:\Users\DELL09\source\repos\StatePattern\StatePattern\bin\Debug\netcoreapp3.1\StatePattern.deps.json
+C:\Users\DELL09\source\repos\StatePattern\StatePattern\bin\Debug\netcoreapp3.1\StatePattern.runtimeconfig.json
+C:\Users\DELL09\source\repos\StatePattern\StatePattern\bin\Debug\netcoreapp3.1\StatePattern.runtimeconfig.dev.json
+C:\Users\DELL09\source\repos\StatePattern\StatePattern\bin\Debug\netcoreapp3.1\StatePattern.dll
+C:\Users\DELL09\source\repos\StatePattern\StatePattern\bin\Debug\netcoreapp3.1\StatePattern.pdb
+C:\Users\DELL09\source\repos\StatePattern\StatePattern\obj\Debug\netcoreapp3.1\StatePattern.dll
+C:\Users\DELL09\source\repos\StatePattern\StatePattern\obj\Debug\netcoreapp3.1\StatePattern.pdb
+C:\Users\DELL09\source\repos\StatePattern\StatePattern\obj\Debug\netcoreapp3.1\StatePattern.genruntimeconfig.cache
